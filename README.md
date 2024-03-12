@@ -1,5 +1,5 @@
 # nlp_analysis_of_lyrics
-NLP анализ текста песен
+NLP анализ текста песен на русском языке
 
 Анализ выполнен на предварительно собранном датасета по текстовкам песен
 ![image](https://github.com/PaslenAmari/nlp_analysis_of_lyrics/assets/106679149/978322b4-1b92-4bcc-a143-0f503f33f93e)
